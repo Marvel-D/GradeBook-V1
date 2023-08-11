@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "msbuild",
+      "problemMatcher": ["$msCompile"],
+      "group": "build",
+      "label": "Build: Gradebook.csproj",
+      "detail": "Build the Gradebook.csproj project using dotnet build"
+    }
+  ]
+}
